@@ -1,4 +1,4 @@
-# GenderInequalityProj
+# "Professional Project Leader"-- An employee training game aiming at raising people's awareness of gender biases within workplace
 
 # Introduction of the project
 
