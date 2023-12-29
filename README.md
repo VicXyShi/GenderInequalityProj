@@ -1,15 +1,15 @@
 # "Professional Project Leader"
 ### An employee training game aiming at raising people's awareness of gender biases within workplace
 
-# Introduction of the project
+# Introduction
 
-## Inspiration
+## Motivations
 
-Due to confirmation bias, humans tend not to consider themselves to have gender biases. Thus, raising workers’ awareness, especially from the management level is essential. However, most of the “Gender Equality Lessons” in organizations are taken place as contextual/ boring lectures, and most workers/ managers do not take them seriously into it. **WE WILL CHANGE THIS.**  With our gaming system and NLP, the game will help the workers/managers to understand and realize if they are “secretly” holding gender discrimination ideas. Also, the interactive and gaming scenario change the “lesson” into a more “story-telling” game. 
+Due to confirmation bias, individuals often overlook their own gender biases, making it crucial to raise awareness, especially among management. However, most gender equality lessons within organizations are perceived as tedious lectures, lacking engagement from workers and managers. **WE WILL CHANGE THIS.**  Through our gaming system and NLP, we aim to help individuals identify any latent gender discrimination beliefs. Our interactive gaming approach transforms these lessons into engaging storytelling experiences. This shift in approach encourages active participation and understanding among workers and managers.
 
 ## What it does
 
-The game will help the players to better understand gender equity. Not like normal surveys in which most participants will self-claim themselves to not have gender bias, our game is more like a “double-blind experiment”. The players are been evaluate on their actual sexual thoughts consciously. Through the interactive game, players will have a clue about gender discrimination in the workplace. 
+The game serves to enhance players' comprehension of gender equity. Unlike traditional surveys where participants often self-report no gender bias, our game functions akin to a "double-blind experiment." It evaluates players' genuine subconscious attitudes towards gender. Through interactive gameplay, participants gain insights into workplace gender discrimination, fostering awareness and understanding.
 
 ## How we built it
 
